@@ -1,0 +1,40 @@
+baseURL : ""
+languageCode : en-us
+title : Demo for Hugo
+theme: Papermod
+
+params:
+  homeInfoParams:
+    Title: "Hello Stranger"
+    Content: Welcome to my blog. Here youll find a lot of cool information about a lot of cool stuff.
+  socialIcons: 
+    - name: twitter
+      url: "https://twitter.com/mewniverse"
+  
+
+  cover:
+    linkFullImages: false
+
+  ShowBreadCrumbs: true
+
+  ShowReadingTime: true
+
+  ShowShareButtons: true 
+
+  ShowPostNavLinks: true
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+    
