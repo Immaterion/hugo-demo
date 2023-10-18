@@ -1,0 +1,24 @@
+{
+  "name": "hugo-demo",
+  "version": "0.1.0",
+  "description": "A hugo template for NPM",
+  "main": "index.js",
+  "scripts": {
+    "dev": "exec-bin node_modules/.bin/hugo server --gc --disableFastRender",
+    "build": "exec-bin node_modules/.bin/hugo --gc --cleanDestinationDir --minify",
+    "npm-check": "npm-check -u",
+    "postinstall": "hugo-installer --version otherDependencies.hugo --extended --destination node_modules/.bin"
+  },
+  "author": "Mewniverse",
+  "license": "ISC",
+  "devDependencies": {
+    "npm-check": "^6.0.1"
+  },
+  "dependencies": {
+    "exec-bin": "^1.0.0",
+    "hugo-installer": "^4.0.1"
+  },
+  "otherDependencies": {
+    "hugo": "0.119.0"
+  }
+}
