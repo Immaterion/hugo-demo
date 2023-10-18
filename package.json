@@ -4,10 +4,13 @@
   "description": "A hugo template for NPM",
   "main": "index.js",
   "scripts": {
-    "dev": "exec-bin node_modules/.bin/hugo server --gc --disableFastRender",
-    "build": "exec-bin node_modules/.bin/hugo --gc --cleanDestinationDir --minify",
+    "dev": "exec-bin node_modules/.bin/hugo/hugo server --gc --disableFastRender",
+    "dev:drafts": "exec-bin node_modules/.bin/hugo/hugo server --gc --disableFastRender --buidDrafts",
+    "build": "exec-bin node_modules/.bin/hugo/hugo --gc --cleanDestinationDir --minify",
+    "start": "exec-bin node_modules/.bin/hugo/hugo server --gc --disableFastRender --renderToDisk --cleanDestinationDir",
+    "start:production": "exec-bin node_modules/.bin/hugo/hugo server --gc --disableFastRender --renderToDisk --cleanDestinationDir --minify --environment production",
     "npm-check": "npm-check -u",
-    "postinstall": "hugo-installer --version otherDependencies.hugo --extended --destination node_modules/.bin"
+    "postinstall": "hugo-installer --version otherDependencies.hugo --extended --destination node_modules/.bin/hugo"
   },
   "author": "Mewniverse",
   "license": "ISC",

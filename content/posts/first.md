@@ -1,6 +1,6 @@
 ---
 title : "First post"
-date : 2023-10-17T13:13:11-04:00
+date : 2023-10-17
 draft : false
 cover: 
     image: img/artnews.png
