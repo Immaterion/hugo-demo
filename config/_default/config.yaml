@@ -1,15 +1,39 @@
 baseURL : ""
 languageCode : en-us
-title : Demo for Hugo
+title : Daddy Trash
+enableInlineShortcodes: true
 theme: Papermod
+Params:
+editPost:
+    URL: "/content"
+    Text: "Edit Post" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
 
 params:
-  homeInfoParams:
-    Title: "Hello Stranger"
-    Content: Welcome to my blog. Here youll find a lot of cool information about a lot of cool stuff.
+  profileMode:
+    enabled: true
+    title: Daddy Trash Web
+    imageUrl: 'https://daddytrash.com/images/PastelDTLogo.png'
+    imageTitle: 
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Commissions
+        url: https://daddytrash.com/commissions
+      - name: Archives
+        url: archives 
+
   socialIcons: 
     - name: twitter
       url: "https://twitter.com/mewniverse"
+    - name: patreon
+      url: "https://patreon.com/mewniverse"
   
 
   cover:
@@ -17,24 +41,38 @@ params:
 
   ShowBreadCrumbs: true
 
-  ShowReadingTime: true
+  ShowReadingTime: false
 
-  ShowShareButtons: true 
+  ShowShareButtons: false 
 
   ShowPostNavLinks: true
 
+
 menu:
   main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
+    - identifier: comics
+      name: Comics
+      url: /comics/
       weight: 10
-    - identifier: tags
-      name: Tags
-      url: /tags/
+    - identifier: shop
+      name: Mew's Shop
+      url: https://mewsshop.company.site/
       weight: 20
+    - identifier: rss
+      name: RSS
+      url: https://daddytrash.com/rssfeed.txt
+      weight: 30  
     - identifier: archives
       name: Archives
       url: /archives/
-      weight: 30
+      weight: 40
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 50
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 60
+    
     

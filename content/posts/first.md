@@ -1,37 +1,21 @@
 ---
 title : "First post"
 date : 2023-10-17
+author: Mewniverse
 draft : false
 cover: 
     image: img/artnews.png
     alt: 'This is a post image'
     caption: 'This is a post caption'
-tags: ["html", "css"]
-categories: ["tech"]
+tags: ["art", "news"]
+categories: ["general"]
 ---
 
-# This is heading one
+### Welcome to my blog site!
 
-## This is heading two
-
-### This is heading three
-
-This is a paragraph. There is also **bold text**, *italic text*, more examples below. 
-
-## Unordered Lists
-
-- Item 1
-- Item 2
-- Item 3
-
-## Ordered Lists
-
-1. Item 1
-2. Item 2
-3. Item 3
-
-## Link
-
-[google](google.com)
-
-<a class="btn btn-primary" href="https://www.google.com" role="button">Link</a>
+I'm Mewniverse, an Artist, but folks call me Mew for short! 
+Welcome to my blog! I am the Webmaster of Daddy Trash Web. I felt a great need to return back to the ways of old by 
+making a website where I could house all my portfolio work, as well as future projects, stories, and everything 
+inbetween. I am moving away from fee-hungry platforms that censor me and taking back control.
+I have a lot in store for people who are interested in supporting my art journey! 
+If you want to keep up to date with the site. my shop, sign up for my newsletter below!

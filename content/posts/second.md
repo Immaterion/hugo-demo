@@ -1,6 +1,7 @@
 ---
 title : "Second post"
 date : 2023-10-18
+author: Mewniverse
 draft : false
 cover: 
     image: img/artnews.png
