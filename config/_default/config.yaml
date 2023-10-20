@@ -3,11 +3,6 @@ languageCode : en-us
 title : Daddy Trash
 enableInlineShortcodes: true
 theme: Papermod
-Params:
-editPost:
-    URL: "/content"
-    Text: "Edit Post" # edit text
-    appendFilePath: true # to append file path to Edit link
 
 outputs:
   home:
@@ -16,24 +11,30 @@ outputs:
     - JSON # is necessary
 
 params:
+  contentTypeName: posts
   profileMode:
     enabled: true
     title: Daddy Trash Web
     imageUrl: 'https://daddytrash.com/images/PastelDTLogo.png'
     imageTitle: 
     buttons:
-      - name: Posts
+      - name: Art Posts
         url: posts
       - name: Commissions
         url: https://daddytrash.com/commissions
-      - name: Archives
-        url: archives 
+      - name: Shop
+        url: https://mewsshop.company.site/
+  
+  comments: true
+  disqusShortname: Mewniverse 
 
   socialIcons: 
-    - name: twitter
-      url: "https://twitter.com/mewniverse"
     - name: patreon
       url: "https://patreon.com/mewniverse"
+    - name: bluesky
+      url: "https://mewniverse.bsky.social"
+    - name: twitter
+      url: "https://twitter.com/mewniverse"
   
 
   cover:
@@ -43,7 +44,7 @@ params:
 
   ShowReadingTime: false
 
-  ShowShareButtons: false 
+  ShowShareButtons: true 
 
   ShowPostNavLinks: true
 
@@ -54,9 +55,9 @@ menu:
       name: Comics
       url: /comics/
       weight: 10
-    - identifier: shop
-      name: Mew's Shop
-      url: https://mewsshop.company.site/
+    - identifier: fiction
+      name: Fiction
+      url: /fiction/
       weight: 20
     - identifier: rss
       name: RSS
@@ -66,13 +67,35 @@ menu:
       name: Archives
       url: /archives/
       weight: 40
-    - identifier: categories
-      name: Categories
-      url: /categories/
+    - identifier: search
+      name: Search
+      url: /search/
       weight: 50
     - identifier: tags
       name: Tags
       url: /tags/
       weight: 60
     
-    
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+
+  instagram:
+    disabled: false
+    simple: true
+
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true

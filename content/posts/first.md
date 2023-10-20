@@ -2,6 +2,10 @@
 title : "First post"
 date : 2023-10-17
 author: Mewniverse
+editPost:
+    URL: "https://github.com/Immaterion/hugo-demo/blob/master/content"
+    Text: "Edit" # edit text
+    appendFilePath: true # to append file path to Edit link
 draft : false
 cover: 
     image: img/artnews.png
@@ -19,3 +23,4 @@ making a website where I could house all my portfolio work, as well as future pr
 inbetween. I am moving away from fee-hungry platforms that censor me and taking back control.
 I have a lot in store for people who are interested in supporting my art journey! 
 If you want to keep up to date with the site. my shop, sign up for my newsletter below!
+

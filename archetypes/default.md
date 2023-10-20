@@ -4,7 +4,7 @@ date : {{ .Date }}
 draft : false
 
 editPost:
-  URL: "/content"
-  Text: "Edit Post" # edit text
+  URL: "https://github.com/Immaterion/hugo-demo/blob/master/content"
+  Text: "Edit" # edit text
   appendFilePath: true # to append file path to Edit link
 ---

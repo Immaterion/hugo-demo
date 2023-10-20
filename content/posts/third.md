@@ -2,6 +2,10 @@
 title : "Gettting the hang of posting"
 date : 2023-10-20
 author: Mewniverse
+editPost:
+    URL: "https://github.com/Immaterion/hugo-demo/blob/master/content"
+    Text: "Edit" # edit text
+    appendFilePath: true # to append file path to Edit link
 draft : false
 cover: 
     image: img/artnews.png

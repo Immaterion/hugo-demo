@@ -2,6 +2,10 @@
 title : "Second post"
 date : 2023-10-18
 author: Mewniverse
+editPost:
+    URL: "https://github.com/Immaterion/hugo-demo/blob/master/content"
+    Text: "Edit" # edit text
+    appendFilePath: true # to append file path to Edit link
 draft : false
 cover: 
     image: img/artnews.png
