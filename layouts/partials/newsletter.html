@@ -1,1 +1,2 @@
-<div class="ml-embedded" data-form="fs2xCz"></div>
+{{ partial "newsletter.html" . }}
+{{ return first . (where site.RegularPages "Params.newsletter" true) }}

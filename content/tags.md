@@ -1,6 +1,6 @@
 ---
 title: "Tags" 
-url: "/tags/"
+url: "/tags"
 showToc: false
 TocOpen: false
 draft: false

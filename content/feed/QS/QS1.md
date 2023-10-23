@@ -1,9 +1,9 @@
 ---
-title: "Quiet Storm"
+title: "Quiet Storm - Ch. 1"
 date: 2023-10-21
 # weight: 1
 # aliases: ["/first"]
-tags: ["fanfiction", "Vinland Saga"]
+tags: ["fanfiction", "Vinland Saga", "yaoi", "BL", "Quiet Storm"]
 author: "Mewniverse"
 # author: ["Me", "You"] # multiple authors
 showToc: false
@@ -31,7 +31,7 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/Immaterion/hugo-demo/blob/master/content"
+    URL: "https://github.com/Immaterion/hugo-demo/blob/master/content/QS"
     Text: "Edit Post" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
@@ -59,7 +59,7 @@ Shock rolled down Einar’s spine as Thorfinn revealed his past to him in the wo
 Einar felt the pain of loss driving him as he stood up in the barn to stand over Thorfinn’s still body. He could not fathom how someone who did all those things could sleep so damn peacefully. It enraged him deeply, barely able to contain his rage as he bent a knee, his giant frame shadowing Thorfinn’s small body in comparison.
 
 
-[img](img/artnews.png)
+{{< figure align=center src="https://daddytrash.com/gallery/VS_EinarxThorfinn_Barn2sm.png" >}}
 
 
 Einar reached for Thorfinn’s neck. He remembered the sounds of her voice dwindling away as she was hacked to death. A strange light was in Einar’s eyes as his hands reached down to touch Thorfinn’s neck before gripping it with both hands.
@@ -71,13 +71,13 @@ All Einar could think about were his sister’s shrieks, fully entrenched in the
 Just then, what Einar had never counted on was hearing Thorfinn’s screams. He was screaming and wailing in a way that sent Einar up and off the man, startled. Thorfinn kicked and screamed as if something invisible was holding him, weighing him down as if he was possessed. Einar turned away from him, shame finally burrowing into him at this discovery.
 
 
-
+{{< figure align=center src="https://daddytrash.com/gallery/VS_EinarxThorfinn_Barn1sm.png" >}}
 
 
 There was no hell deep or vast enough for men like Thorfinn. His mind was already broken by the ravages of war, and his sins would catch up to him eventually, if not already. In an instant he realized nothing would be solved if he killed him now. What would he stand to gain taking a man’s life at his most pitiable moment?
 
 
-
+{{< figure align=center src="https://daddytrash.com/gallery/VS_EinarxThorfinn_Barn5sm.png" >}}
 
 
 Shame radiated in Einar's chest to the pit of his stomach as he heard Thorfinn cry for relief he would never get, hands in the air like an infant seeking his mother as soon as he was conscious. And just like that, the moment had passed.
@@ -85,7 +85,7 @@ Shame radiated in Einar's chest to the pit of his stomach as he heard Thorfinn c
 Einar had never seen the battlefield for himself or what it truly did to men’s minds, but now he had an idea. He hated the idea of pitying a murderer. As Thorfinn grabbed Einar’s tunic, trembling in his own cold sweat and tears, he reached for Thorfinn instinctively. With a softer tone in his voice, he whispered “I’m here...”
 
 
-
+{{< figure align=center src="https://daddytrash.com/gallery/VS_EinarxThorfinn_Barn7sm2.png" >}}
 
 
 It was the strangest thing watching Thorfinn relax after such a mentally draining ordeal, weary eyed, shamelessly holding his hand for comfort, the marks on his neck still fresh. Einar felt the shame of his actions truly hit him like a weight then. He decided he would never do something like this ever again. He would be a better man.
@@ -105,7 +105,7 @@ It was almost poetic. He was sure whatever gods existed were laughing at him.
 Every night Thorfinn screamed, and every night Einar was there. It was a normal occurrence for Einar to be looking over Thorfinn’s shaking body, toil-weathered hands brushing the sweat from Thorfinn’s sweaty forehead. When had he come to care for someone like this? It puzzled Einar that he treated this man far better than any cattle or possession he’d ever owned.
 
 
-
+{{< figure align=center src="https://daddytrash.com/gallery/VS_EinarxThorfinn_Barn3sm.png" >}}
 
 
 “I’m here,” Einar said slowly as Thorfinn looked around frantically, his hands fisted in Einar’s tunic.

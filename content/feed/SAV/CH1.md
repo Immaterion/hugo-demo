@@ -3,7 +3,7 @@ title: "Sine Alise Volare (Without Wings)"
 date: 2023-10-21
 # weight: 1
 # aliases: ["/first"]
-tags: ["fanfiction", "Without Wings"]
+tags: ["fanfiction", "Devil May Cry", "DMC4", "Without Wings", "Sine Alise Volare", "yaoi", "BL"]
 author: "Mewniverse"
 # author: ["Me", "You"] # multiple authors
 showToc: false

@@ -1,9 +1,7 @@
 ---
-title: "Quiet Storm"
-date: 2023-10-21
-# weight: 1
-# aliases: ["/first"]
-tags: ["fanfiction", "Vinland Saga"]
+title: "Quiet Storm - Ch. 2"
+date: 2023-10-22
+tags: ["fanfiction", "Vinland Saga", "yaoi", "BL", "Quiet Storm"]
 author: "Mewniverse"
 # author: ["Me", "You"] # multiple authors
 showToc: false
@@ -31,14 +29,16 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/Immaterion/hugo-demo/blob/master/content"
+    URL: "https://github.com/Immaterion/hugo-demo/blob/master/content/"
     Text: "Edit Post" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
 
-## Chapter Two
+## Author's Note
 
-A/N: As I kept watching the show, more ideas kept springing up in my mind about the potential of what kind of story I wanted to make about these men. In my head canon Einar is working hard for a future with Thorfinn in it. He practically chases after him like a male wife in the show. I need my catharsis, so maybe chapters that lead to something unspeakably hot might be on the table and I am leading with Thorfinn is a masochist who needs his demons exorcised by Einar’s fat cock. lol Enjoy.
+>A/N: As I kept watching the show, more ideas kept springing up in my mind about the potential of what kind of story I wanted to make about these men. In my head canon Einar is working hard for a future with Thorfinn in it. He practically chases after him like a male wife in the show. I need my catharsis, so maybe chapters that lead to something unspeakably hot might be on the table and I am leading with Thorfinn is a masochist who needs his demons exorcised by Einar’s fat cock. lol Enjoy.
+
+
 
 “Can you believe it? Look how much we’ve achieved in three years!” Einar exclaimed as he spread his arms, the forest cleared on their side of the river Ketil had loaned them. Thorfinn sighed as he dropped his axe, his hands on his knees. The shorter man reached for his tunic on the ground cast aside to wipe the sweat from his face.
 
