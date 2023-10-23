@@ -13,9 +13,10 @@ comments: false
 description: "Current Comics List and Future Project Ideas"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
-disableShare: false
+disableShare: true
 disableHLJS: false
 hideSummary: false
+hidefooter: true
 searchHidden: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

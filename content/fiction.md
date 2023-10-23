@@ -1,6 +1,6 @@
 ---
 title: "Fiction"
-url: "/fiction"
+url: "/fiction/"
 summary: This is my current fiction list page.
 # weight: 1
 # aliases: ["/first"]
@@ -14,9 +14,10 @@ comments: false
 description: "I write fanfiction from time to time and post here when inspired."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
-disableShare: false
+disableShare: true
 disableHLJS: false
 hideSummary: false
+hidefooter: true
 searchHidden: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
@@ -34,7 +35,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-### [google](google.com) Quiet Storm
+### [Quiet Storm](google.com)
 
 Fandom: Vinland Saga
 
@@ -42,7 +43,7 @@ Fandom: Vinland Saga
 People can also check the tagged work in "Tags" up above to quickly find any content related to
 this particular comic.
 
-### Sine Alise Volare (Without Wings)
+### [Sine Alise Volare (Without Wings)](google.com)
 
 Fandom: Devil May Cry (DMC 4 Arc)
 
@@ -50,7 +51,7 @@ Fandom: Devil May Cry (DMC 4 Arc)
 People can also check the tagged work in "Tags" up above to quickly find any content related to
 this particular comic.
 
-### Vacation 
+### [Vacation!](google.com) 
 
 Fandom: Yu-Gi-Oh
 
@@ -58,7 +59,7 @@ Fandom: Yu-Gi-Oh
 People can also check the tagged work in "Tags" up above to quickly find any content related to
 this particular comic.
 
-### Unbroken Will
+### [Unbroken Will](google.com)
 
 Fandom: Yu-Gi-Oh
 
