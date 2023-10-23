@@ -5,6 +5,7 @@ draft: false
 hidemeta: false
 comments: false
 disableShare: true
+hideSummary: true
 hidefooter: true
 searchHidden: false
 ShowBreadCrumbs: true
