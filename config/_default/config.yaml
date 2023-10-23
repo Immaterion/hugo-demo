@@ -20,7 +20,7 @@ params:
     imageTitle: 
     buttons:
       - name: Art Posts
-        url: pages
+        url: feed
       - name: Commissions
         url: https://daddytrash.com/commissions
       - name: Shop
@@ -45,10 +45,10 @@ canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: true
 hideSummary: false
-hidefooter: true
 searchHidden: false
 ShowPostNavLinks: true
 
+hidefooter: true
 
 menu:
   main:
