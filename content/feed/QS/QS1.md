@@ -36,7 +36,11 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-## Chapter One
+### Author's Note
+
+>I hope you can enjoy my self-indulgent fic. :) 
+
+. . .
 
 “...nar...Einar?”
 

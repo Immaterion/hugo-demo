@@ -34,7 +34,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-## Author's Note
+### Author's Note
 
 >A/N: As I kept watching the show, more ideas kept springing up in my mind about the potential of what kind of story I wanted to make about these men. In my head canon Einar is working hard for a future with Thorfinn in it. He practically chases after him like a male wife in the show. I need my catharsis, so maybe chapters that lead to something unspeakably hot might be on the table and I am leading with Thorfinn is a masochist who needs his demons exorcised by Einar’s fat cock. lol Enjoy.
 
