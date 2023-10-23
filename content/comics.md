@@ -34,7 +34,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-### Magnum Opus Anthology
+## Magnum Opus Anthology (Ongoing)
 
 Summary:
 
@@ -42,11 +42,24 @@ Summary:
 People can also check the tagged work in "Tags" up above to quickly find any content related to
 this particular comic.
 
-### The Devil Speaks
+### Character Profiles
+- [Samuel Wentworth](google.com)
+- [Lucas Hizashi Edwards](google.com)
+- [Godric Weiss](google.com)
+- [Royce Hendricks, III](google.com)
+- (New Character)
+- (New Character)
+
+## The Devil Speaks (WIP)
 
 Summary:
 
 >Title description about the comic in short summary. I will add a link below to the post.
 People can also check the tagged work in "Tags" up above to quickly find any content related to
 this particular comic.
+
+### Character Profiles
+- [Zaltir](google.com) 
+- [Lion Torgal](google.com)
+- [Father Wesserlock](google.com)
 
