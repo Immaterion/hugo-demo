@@ -15,6 +15,7 @@ params:
   profileMode:
     enabled: true
     title: Daddy Trash Web
+    subtitle: Welcome! I’m Mewniverse, an Artist and Webmaster of this blog. 
     imageUrl: 'https://daddytrash.com/images/PastelDTLogo.png'
     imageTitle: 
     buttons:
@@ -24,8 +25,7 @@ params:
         url: https://daddytrash.com/commissions
       - name: Shop
         url: https://mewsshop.company.site/
-  
-  comments: true
+
   disqusShortname: Mewniverse 
 
   socialIcons: 

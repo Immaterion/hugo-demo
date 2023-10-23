@@ -1,24 +1,27 @@
 ---
-title : "Comics"
-url: "/comics"
+title: "Quiet Storm: Chapter One"
+date: 2023-10-22
 # weight: 1
 # aliases: ["/first"]
+tags: ["fanfiction"]
 author: "Mewniverse"
 # author: ["Me", "You"] # multiple authors
-showToc: false
+showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Current Comics List and Future Project Ideas"
+description: "Desc Text."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: false
+searchHidden: true
+ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
+ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
@@ -29,23 +32,15 @@ cover:
     hidden: true # only hide on current single page
 editPost:
     URL: "https://github.com/Immaterion/hugo-demo/blob/master/content"
-    Text: "Edit Post" # edit text
+    Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
 
-### Magnum Opus Anthology
+## Header Content
 
-Summary:
+Textblock
+>Not a text block!
 
->Title description about the comic in short summary. I will add a link below to the post.
-People can also check the tagged work in "Tags" up above to quickly find any content related to
-this particular comic.
+## This is also a header
 
-### The Devil Speaks
-
-Summary:
-
->Title description about the comic in short summary. I will add a link below to the post.
-People can also check the tagged work in "Tags" up above to quickly find any content related to
-this particular comic.
-
+Brief Summary of **things**
