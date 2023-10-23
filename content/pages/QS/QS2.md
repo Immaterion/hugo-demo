@@ -1,6 +1,6 @@
 ---
 title: "Quiet Storm"
-date: 2023-10-23
+date: 2023-10-21
 # weight: 1
 # aliases: ["/first"]
 tags: ["fanfiction", "Vinland Saga"]

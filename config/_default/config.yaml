@@ -20,7 +20,7 @@ params:
     imageTitle: 
     buttons:
       - name: Art Posts
-        url: posts
+        url: pages
       - name: Commissions
         url: https://daddytrash.com/commissions
       - name: Shop
@@ -35,18 +35,19 @@ params:
       url: "https://mewniverse.bsky.social"
     - name: twitter
       url: "https://twitter.com/mewniverse"
-  
-
-  cover:
-    linkFullImages: false
-
-  ShowBreadCrumbs: true
-
-  ShowReadingTime: false
-
-  ShowShareButtons: true 
 
   ShowPostNavLinks: true
+
+showToc: false
+TocOpen: false
+draft: false
+canonicalURL: "https://canonical.url/to/page"
+disableHLJS: true # to disable highlightjs
+disableShare: true
+hideSummary: false
+hidefooter: true
+searchHidden: false
+ShowPostNavLinks: true
 
 
 menu:
