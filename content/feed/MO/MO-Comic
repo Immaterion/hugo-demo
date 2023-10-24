@@ -1,6 +1,6 @@
 ---
-title : "Comics"
-url: "/comics"
+title : "Magnum Opus - [Cover+Pg. 1]"
+url: "/magnum-opus-01"
 # weight: 1
 # aliases: ["/first"]
 author: "Mewniverse"
@@ -10,7 +10,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Current Comics List and Future Project Ideas"
+description: "Comics Page"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: true
@@ -62,4 +62,3 @@ this particular comic.
 - [Zaltir](google.com) 
 - [Lion Torgal](google.com)
 - [Father Wesserlock](google.com)
-
