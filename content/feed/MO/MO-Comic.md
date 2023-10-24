@@ -46,6 +46,6 @@ this particular comic.
 
 Support me on Patreon so I can make more stories, or check out my shop for goods! Don't forget to like, share, and comment to help spread the word! 💓
 - [Patreon](patreon.com/mewniverse) 
-- [Shop](mewsshop.mycompanysite.com)
+- [Art Shop](mewsshop.mycompanysite.com)
 - [Twitter](twitter.com/mewniverse)
 - [Bluesky](mewniverse.bsky.social)
