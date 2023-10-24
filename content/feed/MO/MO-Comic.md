@@ -1,16 +1,16 @@
 ---
 title : "Magnum Opus - [Cover+Pg. 1]"
+date: 2023-10-24
 url: "/magnum-opus-01"
-# weight: 1
-# aliases: ["/first"]
+tags: ["Magnum Opus", "comics", "BL", "yaoi", "gay"]
 author: "Mewniverse"
 # author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
-description: "Comics Page"
+comments: true
+description: ""
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: true
@@ -34,7 +34,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-## Magnum Opus Anthology (Ongoing)
+### Chapter 1 - Pgs. 1-10
 
 Summary:
 
@@ -42,23 +42,10 @@ Summary:
 People can also check the tagged work in "Tags" up above to quickly find any content related to
 this particular comic.
 
-### Character Profiles
-- [Samuel Wentworth](google.com)
-- [Lucas Hizashi Edwards](google.com)
-- [Godric Weiss](google.com)
-- [Royce Hendricks, III](google.com)
-- (New Character)
-- (New Character)
+### Want to read more?
 
-## The Bedeviled (WIP)
-
-Summary:
-
->Title description about the comic in short summary. I will add a link below to the post.
-People can also check the tagged work in "Tags" up above to quickly find any content related to
-this particular comic.
-
-### Character Profiles
-- [Zaltir](google.com) 
-- [Lion Torgal](google.com)
-- [Father Wesserlock](google.com)
+Support me on Patreon so I can make more stories, or check out my shop for goods! Don't forget to like, share, and comment to help spread the word! 💓
+- [Patreon](patreon.com/mewniverse) 
+- [Shop](mewsshop.mycompanysite.com)
+- [Twitter](twitter.com/mewniverse)
+- [Bluesky](mewniverse.bsky.social)
