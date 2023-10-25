@@ -1,10 +1,6 @@
 ---
 title : "Comics"
 url: "/comics"
-# weight: 1
-# aliases: ["/first"]
-author: "Mewniverse"
-# author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
 draft: false
@@ -28,10 +24,6 @@ cover:
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/Immaterion/hugo-demo/blob/master/content"
-    Text: "Edit Post" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 ## Magnum Opus Anthology (Ongoing)

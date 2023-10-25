@@ -28,10 +28,6 @@ cover:
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/Immaterion/hugo-demo/blob/master/content"
-    Text: "Edit Post" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 ### Chapter 1 - Pgs. 1-10
@@ -46,6 +42,6 @@ this particular comic.
 
 Support me on Patreon so I can make more stories, or check out my shop for goods! Don't forget to like, share, and comment to help spread the word! 💓
 - [Patreon](patreon.com/mewniverse) 
-- [Art Shop](mewsshop.mycompanysite.com)
+- [Art Shop](mewsshop.company.site)
 - [Twitter](twitter.com/mewniverse)
 - [Bluesky](mewniverse.bsky.social)

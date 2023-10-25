@@ -29,13 +29,13 @@ cover:
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/Immaterion/hugo-demo/blob/master/content"
-    Text: "Edit Post" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
-### [Quiet Storm](google.com)
+### Tagging System
+
+I've embedded searchable tags for all my stories so take advantage of the tagging system in order to find chapters quickly or looking via the search bar. This also solves my issue of cluttering up this page with a bunch of links.
+
+#### [Quiet Storm](https://themewniverse.com/feed/qs/qs1/)
 
 Fandom: Vinland Saga
 
@@ -43,7 +43,7 @@ Fandom: Vinland Saga
 People can also check the tagged work in "Tags" up above to quickly find any content related to
 this particular comic.
 
-### [Sine Alise Volare (Without Wings)](google.com)
+#### [Sine Alise Volare (Without Wings)](https://themewniverse.com/feed/sav/ch1/)
 
 Fandom: Devil May Cry (DMC 4 Arc)
 
@@ -51,7 +51,7 @@ Fandom: Devil May Cry (DMC 4 Arc)
 People can also check the tagged work in "Tags" up above to quickly find any content related to
 this particular comic.
 
-### [Vacation!](google.com) 
+#### [Vacation!]() 
 
 Fandom: Yu-Gi-Oh
 
@@ -59,7 +59,7 @@ Fandom: Yu-Gi-Oh
 People can also check the tagged work in "Tags" up above to quickly find any content related to
 this particular comic.
 
-### [Unbroken Will](google.com)
+#### [Unbroken Will](google.com)
 
 Fandom: Yu-Gi-Oh
 
