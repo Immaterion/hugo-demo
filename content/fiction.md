@@ -1,6 +1,6 @@
 ---
 title: "Fiction"
-url: "/fiction/"
+url: "/fiction"
 summary: This is my current fiction list page.
 # weight: 1
 # aliases: ["/first"]

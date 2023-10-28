@@ -3,7 +3,7 @@ title: "Quiet Storm - Ch. 1"
 date: 2023-10-21
 # weight: 1
 # aliases: ["/first"]
-tags: ["fanfiction", "Vinland Saga", "yaoi", "BL", "Quiet Storm"]
+tags: ["fanfiction", "Vinland Saga", "yaoi", "BL", "nsfw", "Quiet Storm"]
 author: "Mewniverse"
 # author: ["Me", "You"] # multiple authors
 showToc: false

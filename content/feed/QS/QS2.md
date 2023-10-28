@@ -1,7 +1,7 @@
 ---
 title: "Quiet Storm - Ch. 2"
 date: 2023-10-22
-tags: ["fanfiction", "Vinland Saga", "yaoi", "BL", "Quiet Storm"]
+tags: ["fanfiction", "Vinland Saga", "yaoi", "BL", "nsfw" "Quiet Storm"]
 author: "Mewniverse"
 # author: ["Me", "You"] # multiple authors
 showToc: false
