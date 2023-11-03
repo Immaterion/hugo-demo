@@ -1,4 +1,4 @@
-baseURL : "https://themewniverse.com"
+baseURL : "https://github.com/Immaterion/hugo-demo/blob/master/content"
 languageCode : en-us
 title : Daddy Trash
 enableInlineShortcodes: true
